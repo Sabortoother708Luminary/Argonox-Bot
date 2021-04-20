@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "akairo-mongoose": "^1.0.4",
+    "colors": "^1.4.0",
+    "discord-akairo": "^8.1.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.12.4",
+    "node-persist": "^3.1.0",
+    "sqlite": "^4.0.21",
+    "yt-search": "^2.7.6",
+    "ytdl-core": "^4.5.0"
+  }
+}
